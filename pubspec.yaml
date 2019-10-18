@@ -1,0 +1,18 @@
+name: expandable_tabs
+description: Expandable tabs are a fancy way to show content on Flutter.
+version: 1.0.0
+author: Ariel J. Martinez Viera <ariel.j.m.v@gmail.com>
+homepage: https://github.com/ajviera/expandable_tabs.git
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
